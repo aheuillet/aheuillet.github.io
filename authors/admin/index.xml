@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandre Heuillet - Personal Webpage</title>
-    <link>https://aheuillet.github.io/authors/admin/</link>
-      <atom:link href="https://aheuillet.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Heuillet - Personal Webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://aheuillet.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Alexandre Heuillet - Personal Webpage</title>
-      <link>https://aheuillet.github.io/authors/admin/</link>
+      <link>http://localhost:1313/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.  --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

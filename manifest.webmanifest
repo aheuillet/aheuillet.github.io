@@ -2,8 +2,8 @@
   "name": "Alexandre Heuillet - Personal Webpage",
   "short_name": "Alexandre Heuillet - Personal Webpage",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#2563eb",
+  "background_color": "#2563eb",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

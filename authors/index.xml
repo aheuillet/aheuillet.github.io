@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alexandre Heuillet - Personal Webpage</title>
-    <link>https://aheuillet.github.io/authors/</link>
-      <atom:link href="https://aheuillet.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://aheuillet.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://aheuillet.github.io/authors/</link>
+      <link>http://localhost:1313/authors/</link>
     </image>
     
   </channel>
